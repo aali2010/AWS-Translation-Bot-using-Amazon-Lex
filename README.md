@@ -26,4 +26,6 @@ AWS IAM: Ensure secure access by managing user permissions.
 
 Amazon Translate: Used for translation of the sentence according to the input language specified.
 
+*It can translate in the following language: French, German, Japanese, Chinese, Dutch, Spanish, Portuguese, Korean, and Somali
+
 
